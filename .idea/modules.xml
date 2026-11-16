@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hirst_painting/.idea/hirst_painting.iml" filepath="$PROJECT_DIR$/../hirst_painting/.idea/hirst_painting.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" filepath="$USER_HOME$/Downloads/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" filepath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snake_game.iml" filepath="$PROJECT_DIR$/.idea/snake_game.iml" />
+    </modules>
+  </component>
+</project>
